@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "livre-01",
+    "titre": "Manuel du Garde de Blancherive",
+    "sous_titre": "Livre I — Servir Blancherive",
+    "collection": "manuel-garde",
+    "pages": 16,
+    "maj": "2026-11-16"
+  },
+  {
+    "slug": "livre-02",
+    "titre": "Manuel du Garde de Blancherive",
+    "sous_titre": "Livre II — La Garde",
+    "collection": "manuel-garde",
+    "pages": 15,
+    "maj": "2026-11-16"
+  },
+  {
+    "slug": "livre-04",
+    "titre": "Manuel du Garde de Blancherive",
+    "sous_titre": "Livre IV — Le registre et la justice",
+    "collection": "manuel-garde",
+    "pages": 15,
+    "maj": "2026-11-16"
+  }
+]
